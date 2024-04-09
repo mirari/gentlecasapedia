@@ -1,7 +1,7 @@
 {
-  "name": "uni-vitesse",
+  "name": "和宁小百科",
   "appid": "",
-  "description": "uniapp + vitesse = strong !!!",
+  "description": "小区生活好帮手",
   "versionName": "1.0.0",
   "versionCode": "100",
   "transformPx": false,
@@ -58,9 +58,9 @@
   /* 小程序特有相关 */
   "mp-weixin": {
     "darkmode": true,
-    "appid": "",
+    "appid": "wxf8626443799ff719",
     "setting": {
-      "urlCheck": false
+      "urlCheck": true
     },
     "usingComponents": true
   },
